@@ -1,5 +1,4 @@
 # Portfolio - 02 👩‍💻 
-:construction: Em construção :construction:
 
 ⚡ Olá, desenvolvi esse portfolio afim de exercitar meus estudos e apresentar um pouco da minha trajetória e meus conhecimentos adquiridos até o momento.<br />
 🧰 Para a elaboração deste projeto utilizei: JavaScrip, HTML/CSS, TypeScript, Angular, Bootstrap, Node.js e SASS.<br /> 
